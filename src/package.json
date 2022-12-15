@@ -1,0 +1,17 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui-x/blob/master/docs/src/pages/components/data-grid/columns/ValueParserGrid.js",
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@material-ui/core": "latest",
+    "@material-ui/data-grid": "latest",
+    "@mui/material": "5.11.0",
+    "@mui/x-data-grid": "5.17.14",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
